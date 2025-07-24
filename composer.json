@@ -1,0 +1,17 @@
+{
+    "name": "dicky/penggajian3",
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dicky\\Penggajian3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nashwawa",
+            "email": "nashwasarita@gmail.com"
+        }
+    ]
+}
