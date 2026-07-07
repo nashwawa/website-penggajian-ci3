@@ -3,8 +3,6 @@ Website Penggajian Pegawai
  Deskripsi
 Website Penggajian Pegawai merupakan aplikasi berbasis *CodeIgniter 3* yang dirancang untuk membantu proses pengelolaan data pegawai, absensi, perhitungan gaji, hingga pembuatan laporan secara lebih cepat dan terorganisir.
 
-Project ini dibuat sebagai media pembelajaran sekaligus portofolio pengembangan aplikasi web.
-
 ---
 
  Fitur Utama
