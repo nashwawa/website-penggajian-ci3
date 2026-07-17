@@ -39,13 +39,19 @@ Teknologi yang digunakan
 6. Buka project melalui browser.
 
 ---
- Screenshot
-Tambahkan screenshot berikut:
-- Halaman Login
-- Dashboard
-- Data Pegawai
-- Data Jabatan
-- Absensi
-- Penggajian
-- Slip Gaji
-- Laporan
+Tampilan
+
+### Halaman Admin
+![dashboard](screenshots/dashboard-admin.png)
+
+### Halaman Pegawai
+![dashboard](screenshots/dashboard-pegawai.png)
+
+### Login
+![login](screenshots/login.png)
+
+### Data Absen
+![absen](screenshots/data-absen.png)
+
+### Halaman Pengunjung
+![dashboard](screenshots/dashboard-pengunjung.png)
