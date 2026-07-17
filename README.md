@@ -50,8 +50,6 @@ Tampilan
 ### Login
 ![login](screenshots/login.png)
 
-### Data Absen
-![absen](screenshots/data-absen.png)
+### Tampilan lainnya
+![absen](screenshots)
 
-### Halaman Pengunjung
-![dashboard](screenshots/dashboard-pengunjung.png)
